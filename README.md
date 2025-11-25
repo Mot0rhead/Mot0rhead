@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to Mot0rhead profile 👋
 
 <!--
 **Mot0rhead/Mot0rhead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Science+Gothic&pause=1000&color=00DC59&width=435&lines=Learning+something+new....)](https://git.io/typing-svg)
